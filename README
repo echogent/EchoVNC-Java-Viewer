@@ -1,0 +1,6 @@
+This is a simple README for the Git repository for the EchoVNC Java Viewer.
+
+This repository was created on 13 March 2011. It contains the compiled binaries
+used by the EchoVNC Java Viewer application. Source code for these binaries
+will be managed in a separate repository.
+
